@@ -4,6 +4,7 @@
 ### KAVI KEERTHANA R
 https://github.com/RKavikeerthana
 ### AAKASH P
+https://github.com/Aakash0407
 ## ABSTRACT
 
 Modern defense systems face increasing challenges due to rapidly evolving threats, complex terrains, and the growing need for real-time situational awareness. Traditional security measures often struggle to respond quickly and accurately to such dynamic environments, leading to potential vulnerabilities in military bases. To address these challenges, autonomous technologies have emerged as a transformative solution for enhancing defense operations.
